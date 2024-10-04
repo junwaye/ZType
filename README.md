@@ -1,1 +1,1 @@
-# ZType
+# Go to master branch
